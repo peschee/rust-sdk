@@ -1,5 +1,5 @@
 <div align = "right">
-<a href="docs/readme/README.zh-cn.md">简体中文(待更新)</a>
+<a href="docs/readme/README.zh-cn.md">简体中文</a>
 </div>
 
 # RMCP
